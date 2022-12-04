@@ -1,0 +1,17 @@
+@import url("https://v1.fontapi.ir/css/Shabnam");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Shabnam, sans-serif;
+}
+
+body {
+  background: url("./assets/wallpaper.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  transition: all 0.4s ease-in-out;
+}
